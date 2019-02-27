@@ -60,7 +60,7 @@ public class ChibiCharacter extends GameObject{
                 return null;
         }
     }
-     
+
 
     public Bitmap getCurrentMoveBitmap()  {
         Bitmap[] bitmaps = this.getMoveBitmaps();
