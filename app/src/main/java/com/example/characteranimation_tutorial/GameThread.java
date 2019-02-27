@@ -12,7 +12,7 @@ public class GameThread extends Thread {
         this.gameSurface= gameSurface;
         this.surfaceHolder= surfaceHolder;
     }
-
+    // ㅅㄷㄴㅅ
     @Override
     public void run(){
         long startTime = System.nanoTime();
